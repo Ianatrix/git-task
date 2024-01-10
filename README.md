@@ -1,3 +1,3 @@
 # Git Task
 
-This project is for a task
+This project is for a task.
