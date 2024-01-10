@@ -1,3 +1,14 @@
 # ignore all .env files
 *.env
 
+# ignore all files starting with a dot except files that end with .example
+.*
+!*.example
+
+# ignore all files in directory called secret
+ 
+ secret/*
+ 
+# allow files in the directory secret which end with .keep
+
+ secret/.keep*
