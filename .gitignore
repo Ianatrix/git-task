@@ -11,4 +11,7 @@
  
 # allow files in the directory secret which end with .keep
 
- secret/.keep*
+!/secret/.keep*
+
+
+
