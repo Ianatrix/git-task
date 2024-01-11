@@ -4,7 +4,7 @@
 # ignore all files starting with a dot except files that end with .example
 .*
 !*.example
-!*.editorconfig
+!.editorconfig
 
 # ignore all files in directory called secret
  
