@@ -5,6 +5,7 @@ end_of_line = crlf
 indent_style = tab
 indent_size = 4
 
+# file with  .md ending use space indent style
 [*.md]
 indent_style = space
 
