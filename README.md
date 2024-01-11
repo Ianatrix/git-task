@@ -1,3 +1,4 @@
+
 # Git Task
 
-This project is for a task.
+This is a cool Project dealing with gitignore and editorconfig files
