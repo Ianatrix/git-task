@@ -8,11 +8,11 @@
 
 # ignore all files in directory called secret
  
-/secret/*
+/secret/
  
 # allow files in the directory secret which end with .keep
 
-!/secret/.keep*
+!/secret/.keep
 
 
 
